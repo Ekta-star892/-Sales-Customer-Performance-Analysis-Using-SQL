@@ -35,8 +35,7 @@ The analysis is based on four relational tables:
 The analysis improves visibility into sales drivers and customer behavior and can help reduce manual reporting efforts by 30%.
 
 
-
-##BUSINESS QUESTIONS 
+## BUSINESS QUESTIONS 
 
 -- count of total number of customers and orders
 select count(id) as 'total_customers' from customers 

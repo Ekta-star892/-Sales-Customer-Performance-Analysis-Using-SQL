@@ -177,3 +177,19 @@ when rating = 3 then 'Satisfied'
 when rating = 2 then 'Bad'
 when rating in (1,0) then 'Terrible'
 end
+
+
+#### Business Insights Summary
+
+1. Customer Analysis
+- Identified high-frequency customers with higher order counts, indicating strong retention potential.
+
+2. Sales Trend Analysis
+- Weekly trend analysis showed demand peaks that can help optimize operations.
+
+3. Product Performance
+- Top products contribute a significant share of total revenue, indicating focus areas for inventory planning.
+
+4. Customer Experience
+- Majority of customers rated orders as Good to Excellent, while a smaller segment highlighted service gaps.
+
